@@ -3,7 +3,7 @@
 ### Master Student at National Bioinformatics Center, Chinese Academy of Sciences, supervised by [Prof Zhang Zhang](https://ngdc.cncb.ac.cn/people/zhang-zhang)
 
 - 🌱 I’m currently learning Python/Rust...
-- 🔗 Blog: [https://www.hangbozhu.space/](https://www.hangbozhu.space/)
+<!-- - 🔗 Blog: [https://www.hangbozhu.space/](https://www.hangbozhu.space/) -->
 - 😄 Research Interests:
   + Agent for medical applications
   + Multimodal large language models
