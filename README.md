@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Hangbo Zhu (朱杭波)
 
-### Master Student at China National Bioinformatics Center(CNCB), Chinese Academy of Sciences, supervised by [Prof Zhang Zhang](https://ngdc.cncb.ac.cn/people/zhang-zhang)
-
+### Master Student at China National Bioinformatics Center(CNCB), Chinese Academy of Sciences
 - 🌱 I’m currently learning Python/Rust/C++...
 <!-- - 🔗 Blog: [https://www.hangbozhu.space/](https://www.hangbozhu.space/) -->
 - 😄 Research Interests:
