@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Hangbo Zhu (朱杭波)
 
-### Master Student at China National Bioinformatics Center(CNCB), Chinese Academy of Sciences
+### Master Candidate at China National Bioinformatics Center(CNCB), Chinese Academy of Sciences
 - 🌱 I’m currently learning Python/Rust/C++...
 <!-- - 🔗 Blog: [https://www.hangbozhu.space/](https://www.hangbozhu.space/) -->
 - 😄 Research Interests:
   + Agent for medical applications
   + Multimodal large language models
   + Cyber Security
-  + Post Train
+  + Post-Train
   + Reinforcement Learning
   + High Performance Compute
   + ......
