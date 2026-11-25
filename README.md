@@ -6,7 +6,9 @@
 - 😄 Research Interests:
   + Agent for medical applications
   + Multimodal large language models
-  + Large model pruning
+  + Cyber Security
+  + Post Train
+  + Reinforcement Learning
   + High Performance Compute
   + ......
 
